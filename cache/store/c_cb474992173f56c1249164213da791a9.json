@@ -1,0 +1,66 @@
+{
+    "name": "CreateProfessionalModulesTable",
+    "line": 7,
+    "short_desc": "",
+    "long_desc": "",
+    "hint": null,
+    "tags": [],
+    "namespace": "",
+    "file": "D:\\www\\programming\\packages\\rogerforner\\scool_programming\/\\publishable\\database\\migrations\\2018_05_04_000105_create_professional_modules_table.php",
+    "relative_file": null,
+    "hash": "1178c4ddfbe159f4f3e161f10cdad8ca196c9cf6",
+    "parent": "Illuminate\\Database\\Migrations\\Migration",
+    "modifiers": 0,
+    "is_trait": false,
+    "is_interface": false,
+    "aliases": {
+        "Schema": "Illuminate\\Support\\Facades\\Schema",
+        "Blueprint": "Illuminate\\Database\\Schema\\Blueprint",
+        "Migration": "Illuminate\\Database\\Migrations\\Migration"
+    },
+    "errors": [],
+    "interfaces": [],
+    "traits": [],
+    "properties": [],
+    "methods": {
+        "up": {
+            "name": "up",
+            "line": 14,
+            "short_desc": "Run the migrations.",
+            "long_desc": "",
+            "hint": [
+                [
+                    "void",
+                    false
+                ]
+            ],
+            "hint_desc": "",
+            "tags": [],
+            "modifiers": 1,
+            "is_by_ref": "",
+            "exceptions": [],
+            "errors": [],
+            "parameters": []
+        },
+        "down": {
+            "name": "down",
+            "line": 39,
+            "short_desc": "Reverse the migrations.",
+            "long_desc": "",
+            "hint": [
+                [
+                    "void",
+                    false
+                ]
+            ],
+            "hint_desc": "",
+            "tags": [],
+            "modifiers": 1,
+            "is_by_ref": "",
+            "exceptions": [],
+            "errors": [],
+            "parameters": []
+        }
+    },
+    "constants": []
+}

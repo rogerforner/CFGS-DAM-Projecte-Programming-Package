@@ -1,0 +1,66 @@
+{
+    "name": "AddDepartmentManagerToUsersTable",
+    "line": 7,
+    "short_desc": "",
+    "long_desc": "",
+    "hint": null,
+    "tags": [],
+    "namespace": "",
+    "file": "D:\\www\\programming\\packages\\rogerforner\\scool_programming\/\\publishable\\database\\migrations\\2018_05_25_094402_add_department_manager_to_users_table.php",
+    "relative_file": null,
+    "hash": "b5212a9cb1296a5f6c70343c3378c03fab771c69",
+    "parent": "Illuminate\\Database\\Migrations\\Migration",
+    "modifiers": 0,
+    "is_trait": false,
+    "is_interface": false,
+    "aliases": {
+        "Schema": "Illuminate\\Support\\Facades\\Schema",
+        "Blueprint": "Illuminate\\Database\\Schema\\Blueprint",
+        "Migration": "Illuminate\\Database\\Migrations\\Migration"
+    },
+    "errors": [],
+    "interfaces": [],
+    "traits": [],
+    "properties": [],
+    "methods": {
+        "up": {
+            "name": "up",
+            "line": 14,
+            "short_desc": "Run the migrations.",
+            "long_desc": "",
+            "hint": [
+                [
+                    "void",
+                    false
+                ]
+            ],
+            "hint_desc": "",
+            "tags": [],
+            "modifiers": 1,
+            "is_by_ref": "",
+            "exceptions": [],
+            "errors": [],
+            "parameters": []
+        },
+        "down": {
+            "name": "down",
+            "line": 28,
+            "short_desc": "Reverse the migrations.",
+            "long_desc": "",
+            "hint": [
+                [
+                    "void",
+                    false
+                ]
+            ],
+            "hint_desc": "",
+            "tags": [],
+            "modifiers": 1,
+            "is_by_ref": "",
+            "exceptions": [],
+            "errors": [],
+            "parameters": []
+        }
+    },
+    "constants": []
+}

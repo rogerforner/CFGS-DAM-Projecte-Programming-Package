@@ -1,0 +1,115 @@
+{
+    "name": "Rogerforner\\ScoolProgramming\\Http\\Controllers\\API\\ApiResponseController",
+    "line": 8,
+    "short_desc": "",
+    "long_desc": "",
+    "hint": null,
+    "tags": [],
+    "namespace": "Rogerforner\\ScoolProgramming\\Http\\Controllers\\API",
+    "file": "D:\\www\\programming\\packages\\rogerforner\\scool_programming\/\\src\\Http\\Controllers\\API\\ApiResponseController.php",
+    "relative_file": null,
+    "hash": "4c038ccb4a3dacd71d162131bc34938d9c494725",
+    "parent": "App\\Http\\Controllers\\Controller",
+    "modifiers": 0,
+    "is_trait": false,
+    "is_interface": false,
+    "aliases": {
+        "Request": "Illuminate\\Http\\Request",
+        "Controller": "App\\Http\\Controllers\\Controller"
+    },
+    "errors": [],
+    "interfaces": [],
+    "traits": [],
+    "properties": [],
+    "methods": {
+        "sendResponse": {
+            "name": "sendResponse",
+            "line": 19,
+            "short_desc": "M\u00e8tode emprat per a aquelles peticions que s'hagin dut endavant\nsatisfactoriament.",
+            "long_desc": "Si passem 'null' al par\u00e0metre \"result\" no el mostrarem, l'eliminem de\n\"apiResponseData\". No ens interessa passar un \u00edndex buit al array.",
+            "hint": [
+                [
+                    "\\Illuminate\\Http\\Response",
+                    false
+                ]
+            ],
+            "hint_desc": "",
+            "tags": [],
+            "modifiers": 1,
+            "is_by_ref": "",
+            "exceptions": [],
+            "errors": [],
+            "parameters": {
+                "result": {
+                    "name": "result",
+                    "line": 19,
+                    "short_desc": null,
+                    "long_desc": null,
+                    "hint": null,
+                    "tags": [],
+                    "modifiers": null,
+                    "default": null,
+                    "variadic": false,
+                    "is_by_ref": false
+                },
+                "message": {
+                    "name": "message",
+                    "line": 19,
+                    "short_desc": null,
+                    "long_desc": null,
+                    "hint": null,
+                    "tags": [],
+                    "modifiers": null,
+                    "default": null,
+                    "variadic": false,
+                    "is_by_ref": false
+                }
+            }
+        },
+        "sendError": {
+            "name": "sendError",
+            "line": 44,
+            "short_desc": "M\u00e8tode emprat per a aquelles peticions que no s'hagin dut endavant\nsatisfactoriament.",
+            "long_desc": "Per defecte es defineix un tipus de resposta \"warning\", per\u00f2 si l'array\n\"errorMessages\" no est\u00e0 buit, el tipus es canvia a \"error\". Aix\u00f2 ho emprem\nper determinar quin tipus de notificaci\u00f3 (colors) mostrar.",
+            "hint": [
+                [
+                    "\\Illuminate\\Http\\Response",
+                    false
+                ]
+            ],
+            "hint_desc": "",
+            "tags": [],
+            "modifiers": 1,
+            "is_by_ref": "",
+            "exceptions": [],
+            "errors": [],
+            "parameters": {
+                "error": {
+                    "name": "error",
+                    "line": 44,
+                    "short_desc": null,
+                    "long_desc": null,
+                    "hint": null,
+                    "tags": [],
+                    "modifiers": null,
+                    "default": null,
+                    "variadic": false,
+                    "is_by_ref": false
+                },
+                "errorMessages": {
+                    "name": "errorMessages",
+                    "line": 44,
+                    "short_desc": null,
+                    "long_desc": null,
+                    "hint": null,
+                    "tags": [],
+                    "modifiers": null,
+                    "default": "[]",
+                    "variadic": false,
+                    "is_by_ref": false
+                }
+            }
+        }
+    },
+    "constants": []
+}

@@ -1,0 +1,40 @@
+{
+    "name": "PrincipalTest",
+    "line": 5,
+    "short_desc": "",
+    "long_desc": "",
+    "hint": null,
+    "tags": [],
+    "namespace": "",
+    "file": "D:\\www\\programming\\packages\\rogerforner\\scool_programming\/\\tests\\DepartmentControllerTest.php",
+    "relative_file": null,
+    "hash": "6c9e4e97e5e15ecff97a1b70c5073a4efae3cb08",
+    "parent": "PHPUnit\\Framework\\TestCase",
+    "modifiers": 0,
+    "is_trait": false,
+    "is_interface": false,
+    "aliases": {
+        "DepartmentController": "Rogerforner\\ScoolProgramming\\Http\\Controllers\\API\\DepartmentController"
+    },
+    "errors": [],
+    "interfaces": [],
+    "traits": [],
+    "properties": [],
+    "methods": {
+        "testIndex": {
+            "name": "testIndex",
+            "line": 13,
+            "short_desc": "El test s'inicia per\u00f2 hem falla:\nFatal error: Class 'App\\Http\\Controllers\\Controller' not found in\nD:\\www\\programming\\packages\\rogerforner\\scool_programming\\src\\Http\\Controllers\\API\\ApiResponseController.php\non line 8",
+            "long_desc": "",
+            "hint": null,
+            "hint_desc": null,
+            "tags": [],
+            "modifiers": 1,
+            "is_by_ref": "",
+            "exceptions": [],
+            "errors": [],
+            "parameters": []
+        }
+    },
+    "constants": []
+}

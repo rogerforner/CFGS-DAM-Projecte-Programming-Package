@@ -1,0 +1,194 @@
+{
+    "name": "Rogerforner\\ScoolProgramming\\Models\\Temary",
+    "line": 8,
+    "short_desc": "",
+    "long_desc": "",
+    "hint": null,
+    "tags": [],
+    "namespace": "Rogerforner\\ScoolProgramming\\Models",
+    "file": "D:\\www\\programming\\packages\\rogerforner\\scool_programming\/\\src\\Models\\Temary.php",
+    "relative_file": null,
+    "hash": "9d653a9b8136ca93db51a97a45c88592b98f4916",
+    "parent": "Illuminate\\Database\\Eloquent\\Model",
+    "modifiers": 0,
+    "is_trait": false,
+    "is_interface": false,
+    "aliases": {
+        "Model": "Illuminate\\Database\\Eloquent\\Model",
+        "TrainingUnit": "Rogerforner\\ScoolProgramming\\Models\\TrainingUnit"
+    },
+    "errors": [],
+    "interfaces": [],
+    "traits": [],
+    "properties": {
+        "fillable": {
+            "name": "fillable",
+            "line": 18,
+            "short_desc": "The attributes that are mass assignable.",
+            "long_desc": "",
+            "hint": [
+                [
+                    "array",
+                    false
+                ]
+            ],
+            "hint_desc": "",
+            "tags": [],
+            "modifiers": 2,
+            "default": {
+                "nodeType": "Expr_Array",
+                "items": [
+                    {
+                        "nodeType": "Expr_ArrayItem",
+                        "key": null,
+                        "value": {
+                            "nodeType": "Scalar_String",
+                            "value": "nf",
+                            "attributes": {
+                                "startLine": 19,
+                                "endLine": 19,
+                                "kind": 1
+                            }
+                        },
+                        "byRef": false,
+                        "attributes": {
+                            "startLine": 19,
+                            "endLine": 19
+                        }
+                    },
+                    {
+                        "nodeType": "Expr_ArrayItem",
+                        "key": null,
+                        "value": {
+                            "nodeType": "Scalar_String",
+                            "value": "duration",
+                            "attributes": {
+                                "startLine": 20,
+                                "endLine": 20,
+                                "kind": 1
+                            }
+                        },
+                        "byRef": false,
+                        "attributes": {
+                            "startLine": 20,
+                            "endLine": 20
+                        }
+                    },
+                    {
+                        "nodeType": "Expr_ArrayItem",
+                        "key": null,
+                        "value": {
+                            "nodeType": "Scalar_String",
+                            "value": "name",
+                            "attributes": {
+                                "startLine": 21,
+                                "endLine": 21,
+                                "kind": 1
+                            }
+                        },
+                        "byRef": false,
+                        "attributes": {
+                            "startLine": 21,
+                            "endLine": 21
+                        }
+                    },
+                    {
+                        "nodeType": "Expr_ArrayItem",
+                        "key": null,
+                        "value": {
+                            "nodeType": "Scalar_String",
+                            "value": "description",
+                            "attributes": {
+                                "startLine": 22,
+                                "endLine": 22,
+                                "kind": 1
+                            }
+                        },
+                        "byRef": false,
+                        "attributes": {
+                            "startLine": 22,
+                            "endLine": 22
+                        }
+                    },
+                    {
+                        "nodeType": "Expr_ArrayItem",
+                        "key": null,
+                        "value": {
+                            "nodeType": "Scalar_String",
+                            "value": "training_unit_id",
+                            "attributes": {
+                                "startLine": 23,
+                                "endLine": 23,
+                                "kind": 1
+                            }
+                        },
+                        "byRef": false,
+                        "attributes": {
+                            "startLine": 23,
+                            "endLine": 23
+                        }
+                    },
+                    {
+                        "nodeType": "Expr_ArrayItem",
+                        "key": null,
+                        "value": {
+                            "nodeType": "Scalar_String",
+                            "value": "created_by",
+                            "attributes": {
+                                "startLine": 24,
+                                "endLine": 24,
+                                "kind": 1
+                            }
+                        },
+                        "byRef": false,
+                        "attributes": {
+                            "startLine": 24,
+                            "endLine": 24
+                        }
+                    },
+                    {
+                        "nodeType": "Expr_ArrayItem",
+                        "key": null,
+                        "value": {
+                            "nodeType": "Scalar_String",
+                            "value": "updated_by",
+                            "attributes": {
+                                "startLine": 25,
+                                "endLine": 25,
+                                "kind": 1
+                            }
+                        },
+                        "byRef": false,
+                        "attributes": {
+                            "startLine": 25,
+                            "endLine": 25
+                        }
+                    }
+                ],
+                "attributes": {
+                    "startLine": 18,
+                    "endLine": 26,
+                    "kind": 2
+                }
+            },
+            "errors": []
+        }
+    },
+    "methods": {
+        "trainingUnit": {
+            "name": "trainingUnit",
+            "line": 35,
+            "short_desc": "Training Unit.",
+            "long_desc": "Get the training unit of the temary.",
+            "hint": null,
+            "hint_desc": null,
+            "tags": [],
+            "modifiers": 1,
+            "is_by_ref": "",
+            "exceptions": [],
+            "errors": [],
+            "parameters": []
+        }
+    },
+    "constants": []
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Rogerforner\\ScoolProgramming\\ScoolProgrammingServiceProvider",
+    "line": 7,
+    "short_desc": "",
+    "long_desc": "",
+    "hint": null,
+    "tags": [],
+    "namespace": "Rogerforner\\ScoolProgramming",
+    "file": "D:\\www\\programming\\packages\\rogerforner\\scool_programming\/\\src\\ScoolProgrammingServiceProvider.php",
+    "relative_file": null,
+    "hash": "a9ba62451145d64b3479b2a665aa60cb4a916a29",
+    "parent": "Illuminate\\Support\\ServiceProvider",
+    "modifiers": 0,
+    "is_trait": false,
+    "is_interface": false,
+    "aliases": {
+        "ServiceProvider": "Illuminate\\Support\\ServiceProvider"
+    },
+    "errors": [],
+    "interfaces": [],
+    "traits": [],
+    "properties": [],
+    "methods": {
+        "boot": {
+            "name": "boot",
+            "line": 14,
+            "short_desc": "Bootstrap services.",
+            "long_desc": "",
+            "hint": [
+                [
+                    "void",
+                    false
+                ]
+            ],
+            "hint_desc": "",
+            "tags": [],
+            "modifiers": 1,
+            "is_by_ref": "",
+            "exceptions": [],
+            "errors": [],
+            "parameters": []
+        },
+        "register": {
+            "name": "register",
+            "line": 30,
+            "short_desc": "Register services.",
+            "long_desc": "Li passem el m\u00e8tode registerPublishables() a trav\u00e9s del qual registrarem els fitxers\nque han de ser copiats amb el vendor:publish.",
+            "hint": [
+                [
+                    "void",
+                    false
+                ]
+            ],
+            "hint_desc": "",
+            "tags": [],
+            "modifiers": 1,
+            "is_by_ref": "",
+            "exceptions": [],
+            "errors": [],
+            "parameters": []
+        }
+    },
+    "constants": []
+}
