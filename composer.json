@@ -1,0 +1,23 @@
+{
+    "name": "rogerforner/scool_programming",
+    "description": "[Projecte DAM] Paquet per dur a terme les programacions dels M\u0000duls professionals i Unitats Formatives dels diferents Cicles Formatius Professionals.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roger Forner Fabre",
+            "email": "hello@rogerforner.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.1.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rogerforner\\ScoolProgramming\\": "src/"
+        }
+    }
+}
