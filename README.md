@@ -27,9 +27,9 @@
 
 # Info
 
-**[Programming](http://acacha.org/mediawiki/Scool/programming#.WuNzDojFKUk)** és el projecte final del Cicle Formatiu de Grau Superior de _Desenvolupament d'Aplicacions Multiplataforma (DAM)_, de l'[Institut de l'Ebre](https://www.iesebre.com/) (Tortosa - Terres de l'Ebre).
+**[Programming Package](https://github.com/rogerforner/programming-package)** és el projecte final del Cicle Formatiu de Grau Superior de _Desenvolupament d'Aplicacions Multiplataforma (DAM)_, de l'[Institut de l'Ebre](https://www.iesebre.com/) (Tortosa - Terres de l'Ebre).
 
-Aquest és un paquet que es pot veure implementat al repositori [programming](https://github.com/rogerforner/programming), on a més a més hi trobaràs més informació sobre el projecte desenvolupat.
+Aquest és un paquet que es pot veure implementat al repositori [Programming](https://github.com/rogerforner/programming), on a més a més hi trobaràs més informació sobre el projecte desenvolupat.
 
 ## Què fa?
 
