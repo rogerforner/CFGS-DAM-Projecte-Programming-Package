@@ -120,6 +120,12 @@ Laravel.
 
 # Documentació del codi
 
+La documentació del codi s'ha dut a terme mitjançant [Sami](https://github.com/FriendsOfPHP/Sami) 
+i es pot visualitzar o bé a través de l'enllaç que es mostra a sota de la descripció del
+repositori o bé [aquí](https://rogerforner.github.io/programming-package/).
+
+La documentació està allotjada en el propi GitHub, a través de [GitHub Pages](https://pages.github.com/).
+
 # Packagist
 
 Pots trobar el paquet a [Packagist](https://packagist.org), el repositori de paquets de [Composer](https://getcomposer.org/).
