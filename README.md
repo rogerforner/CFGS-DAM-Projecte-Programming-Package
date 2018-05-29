@@ -3,6 +3,7 @@
 **Taula de continguts**
 
 - [Info](#info)
+	- [Enllaços d'interès](#enllacos-dinteres)
 	- [Què fa?](#que-fa)
 	- [Relacions](#relacions)
 - [Idioma (important)](#idioma-important)
@@ -30,6 +31,10 @@
 **[Programming Package](https://github.com/rogerforner/programming-package)** és el projecte final del Cicle Formatiu de Grau Superior de _Desenvolupament d'Aplicacions Multiplataforma (DAM)_, de l'[Institut de l'Ebre](https://www.iesebre.com/) (Tortosa - Terres de l'Ebre).
 
 Aquest és un paquet que es pot veure implementat al repositori [Programming](https://github.com/rogerforner/programming), on a més a més hi trobaràs més informació sobre el projecte desenvolupat.
+
+## Enllaços d'interès
+
+- [Veure la presentació](https://rogerforner.github.io/programmingPresentacio/)
 
 ## Què fa?
 
