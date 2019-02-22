@@ -36,6 +36,7 @@ Aquest és un paquet que es pot veure implementat al repositori [Programming](ht
 
 - [Projecte de demostració](https://github.com/rogerforner/CFGS-DAM-Projecte-Programming)
 - [Projecte final](https://github.com/rogerforner/CFGS-DAM-Projecte-Programming-Package)
+- [Projecte paquet (packagist)](https://packagist.org/packages/rogerforner/scool_programming)
 
 ---
 
