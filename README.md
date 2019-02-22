@@ -28,13 +28,20 @@
 
 # Info
 
-**[Programming Package](https://github.com/rogerforner/programming-package)** és el projecte final del Cicle Formatiu de Grau Superior de _Desenvolupament d'Aplicacions Multiplataforma (DAM)_, de l'[Institut de l'Ebre](https://www.iesebre.com/) (Tortosa - Terres de l'Ebre).
+**Programming Package** és el projecte final del Cicle Formatiu de Grau Superior de _Desenvolupament d'Aplicacions Multiplataforma (DAM)_, de l'[Institut de l'Ebre](https://www.iesebre.com/) (Tortosa - Terres de l'Ebre).
 
 Aquest és un paquet que es pot veure implementat al repositori [Programming](https://github.com/rogerforner/programming), on a més a més hi trobaràs més informació sobre el projecte desenvolupat.
 
 ## Enllaços d'interès
 
-- [Veure la presentació](https://rogerforner.github.io/programmingPresentacio/)
+- [Projecte de demostració](https://github.com/rogerforner/CFGS-DAM-Projecte-Programming)
+- [Projecte final](https://github.com/rogerforner/CFGS-DAM-Projecte-Programming-Package)
+
+---
+
+- [Landing](https://rogerforner.github.io/CFGS-DAM-Projecte-Programming-Presentacio/)
+- [Veure la presentació](https://rogerforner.github.io/CFGS-DAM-Projecte-Programming-Presentacio/presentation/index.html)
+- [Veure la documentació (paquet)](https://rogerforner.github.io/CFGS-DAM-Projecte-Programming-Package/)
 
 ## Què fa?
 
@@ -275,7 +282,7 @@ A continuació proporcionem un enllaç a la carpeta on disposem dels components
 Vue a través dels quals consumim la API. Podrem veure que hi ha un component per
 a cadascuna de les rutes/controladors.
 
-- Repositori **programming**[/resources/assets/js/components/scool-programming/](https://github.com/rogerforner/programming/tree/master/resources/assets/js/components/scool-programming)
+- Repositori **CFGS-DAM-Projecte-Programming**[/resources/assets/js/components/scool-programming/](https://github.com/rogerforner/CFGS-DAM-Projecte-Programming/tree/master/resources/assets/js/components/scool-programming)
 
 _Tal i com es menciona en l'apartat "Info", aquest repositori que es dona d'exemple només
 ha estat fet servir per dur a terme les funcionalitats del paquet, cadascú és lliure
